@@ -37,7 +37,7 @@ const Sidebar = (props: SidebarProps) => {
             Playlist name...
           </p>
         )}
-
+        <div></div>
       </div>
     </div>
   );
