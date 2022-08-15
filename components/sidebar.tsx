@@ -34,7 +34,7 @@ const Sidebar = (props: SidebarProps) => {
         <hr className='border-t-[0.1px] border-gray-900' />
         {[...Array(15).keys()].map(x =>
           <p key={x} className="cursor-pointer hover:text-white">
-            Playlist name...
+            Playlist name....
           </p>
         )}
       </div>
